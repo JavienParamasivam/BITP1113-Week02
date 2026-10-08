@@ -4,5 +4,5 @@ BITP 1113 Programming Technique - Week 02 lab
 
 
 
-JAVIEN A/L PARAMASIVAM, B032610203, BITC
+JAVIEN A/L Paramasivam, b032610203, BITC
 
